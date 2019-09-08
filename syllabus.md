@@ -90,8 +90,8 @@ Attendance is required. Students are expected to be on time and remain in class 
 
 ### Late Work
 
-— Project: Every day a project is late it goes down one letter grade.
-— Reading questions: Late reading questions will not be accepted.
+- Project: Every day a project is late it goes down one letter grade.
+- Reading questions: Late reading questions will not be accepted.
 
 ### Grading
 Grading of each project will be made in critique sessions with the participation of the students. Coursework, attendance and reading responses will be tracked and evaluated by the instructor.
