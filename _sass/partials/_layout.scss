@@ -18,7 +18,7 @@
       left: -25px;
       width: 18px;
       height: 18px;
-      margin-top: -14px;
+      margin-top: -16px;
     }
   }
 }
@@ -426,7 +426,7 @@ a.agenda__row {
 // flowers
 .flower {
   width: 371px;
-  height: 200px;
+  height: 215px;
   margin-top: -185px;
   margin-left: -185px;
   position: absolute;
@@ -434,6 +434,7 @@ a.agenda__row {
   left: 10%;
   opacity: 1;
   transition: opacity 0.3s;
+  mix-blend-mode: overlay;
 }
 
 .flower img {

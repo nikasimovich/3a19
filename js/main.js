@@ -89,12 +89,12 @@ $(function() {
   // }
 
   var backgrounds = [
-    'pink',
+    '#68FF33',
+    'blue ',
+    'saddlebrown',
     'red',
-    'orange',
-    'yellow',
-    'blue',
-    'green'
+    '#ff00ff',
+    'yellow'
   ];
 
   $('.flower').each(function(index) {
