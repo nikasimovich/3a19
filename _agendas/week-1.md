@@ -9,7 +9,7 @@ date_range:       09/09
 - Introductions and ice breakers – what are you hoping we&rsquo;ll learn here?
 - Create a [communal code of conduct](https://paper.dropbox.com/doc/3A-Code-of-Conduct--AkZy0um9lTNjxn68~MBUEY0yAQ-NNNYv7m2CvEfVpjf6pzwj)
 - Review the [syllabus](/syllabus)
-- Portfolio links (confirm that your link and name are accurate on the [students page.](/students)
+- Portfolio links (confirm that your link and name are accurate on the [students page.](/students))
 - Student presentations; introduce yourself and show us examples of your work.
     - Share your projects
     - Show us your class homepage
@@ -29,6 +29,6 @@ date_range:       09/09
 - Write a short journal entry about any of the themes in We Live in Public and add it to this [are.na channel](https://www.are.na/share/wdvSsns). What did the movie make you think of? Do you think it&rsquo;s still relevant today?
 - Develop three ideas for [P1: Exhibition](/projects/exhibition), each idea should have a written description, a few initial sketches (hand drawn or digital), and visual references – aim for about 5 entries per idea.
 - House your ideas in one are.na channel and connect it to our [group channel](https://www.are.na/share/dNmzsvR). Include your first name in your channel&rsquo;s title.
-- Go through [Rhizome’s Net Art Anthology](https://anthology.rhizome.org/) and pick one piece that excites you. Research the piece and the artist and house our findings in an are.na channel. Be prepared to present the piece next week.
+- Go through [Rhizome’s Net Art Anthology](https://anthology.rhizome.org/) and pick one piece that excites you. Research the piece and the artist and house your findings in an are.na channel. Be prepared to present the piece next week.
 
 ---
