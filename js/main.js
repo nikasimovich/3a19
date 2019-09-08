@@ -125,8 +125,8 @@ $(function() {
         // console.log('remove flower');
         randomFlower.hide();
         removeFlower();
-      }, 300);
-    }, 3000);
+      }, 400);
+    }, 4000);
   }
 
   removeFlower();
