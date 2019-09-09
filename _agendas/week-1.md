@@ -20,13 +20,12 @@ date_range:       09/09
 - Review [theme](https://docs.google.com/document/d/1rkqMFhTomSHcUai330FaeUSez00V28iS91ei9BzpcS0/edit?usp=sharing)
 - [Week 1 Notes](https://paper.dropbox.com/doc/3A-Week-1-Exhibition-References--Akbz5PsoEaubZW8L7xzBPW1xAQ-jSxPmrviC2ALz9qwcJYnD)
 - [Sign everyone into the group are.na channel](https://www.are.na/fall-3a-rutgers)
-- Screening: [We Live in Public](https://www.youtube.com/watch?v=Hnt23PA2zZ4)
+- Screening: [We Live in Public](https://www.youtube.com/watch?v=Hnt23PA2zZ4) and discussion afterwards
 - Studio time: brainstorming for exhibiton 1 in paper document, then sharing with a friend.
 - Work on homework
 
 ### Homework
 
-- Write a short journal entry about any of the themes in We Live in Public and add it to this [are.na channel](https://www.are.na/share/wdvSsns). What did the movie make you think of? Do you think it&rsquo;s still relevant today?
 - Develop three ideas for [P1: Exhibition](/projects/exhibition), each idea should have a written description, a few initial sketches (hand drawn or digital), and visual references – aim for about 5 entries per idea.
 - House your ideas in one are.na channel and connect it to our [group channel](https://www.are.na/share/dNmzsvR). Include your first name in your channel&rsquo;s title.
 - Go through [Rhizome’s Net Art Anthology](https://anthology.rhizome.org/) and pick one piece that excites you. Research the piece and the artist and house your findings in an are.na channel. Be prepared to present the piece next week.
