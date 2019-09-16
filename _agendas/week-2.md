@@ -5,7 +5,7 @@ date_range:       09/16
 ---
 
 ### Monday, In Class
-- Connect your Rhizome Net Art entry to our [Rhizome Net Art channel](https://www.are.na/share/wdvSsns). Make sure to include a link to the project and be prepared to present for about 5 minutes, considering what you liked about the piece and what do you feel is culturally significant about the artwork.
+- Connect your Rhizome Net Art entry to our [Rhizome Net Art channel](https://www.are.na/share/wdvSsns). Make sure to include a link to the project and be prepared to present for about 5 minutes, considering what you liked about the piece and what you feel is culturally significant about the artwork.
 presentation order: Kyndall, Conor, Matt, Kevin, Eric, Byron (break) Alexa, Pauline, Ed, Fred, Shreya, Kyle
 - Activity [Type in Motion](https://paper.dropbox.com/doc/Type-in-Motion--Ak2GUkzlDmjTm9elsgTNNdoKAQ-PelnCGWJ2Szi1ZaeIeO4k) with [after effects demo](https://drive.google.com/file/d/1YKw6T44emGe99bS8qb93XtoJMa7dssA1/view)
 - Work session for the activity
