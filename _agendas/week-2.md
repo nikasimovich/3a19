@@ -1,7 +1,7 @@
 ---
 title:            Week 2
 start_date:       2019-01-23 00:00:00 -0500
-date_range:       09/15
+date_range:       09/16
 ---
 
 ### Monday, In Class
