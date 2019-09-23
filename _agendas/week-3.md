@@ -18,5 +18,6 @@ date_range:       09/23
 
 - Read [‘Nerd,’ ‘Nonsmoker,’ ‘Wrongdoer’: How Might A.I. Label You?](https://www.nytimes.com/2019/09/20/arts/design/imagenet-trevor-paglen-ai-facial-recognition.html) and write a discussion question
 - Continue working on your Exhibition Project and have an updated version next class
+- Animate your Type in Motion select from today&rsquo;s crit
 
 ---
