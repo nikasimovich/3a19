@@ -18,7 +18,7 @@ Create a digital animation that is intended for a large-scale wall projection or
 
 ### Specs
 Videos
-- Dimensions: 1080 × 1920
+- Dimensions: 1080 × 1920 <em>or</em> 1920 × 1080
 - File Format: .mp4; 24fps
 - Duration: 1 minute
 
