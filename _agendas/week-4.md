@@ -7,10 +7,9 @@ date_range:       09/29
 ### Monday, In Class
 - Discuss reading
 - Students present revised Type in Motion activity. Make sure the final video is saved [here](https://drive.google.com/open?id=1LqiBwWPSn8Ym4fa0HO--Jjd0qgudoi4e)
-- Students vote on Type in Motion posters
 - [P1 Exhibition Group Activity](https://paper.dropbox.com/doc/Week-4--Altvt1wAXCWpmTjIvbEOIEgqAQ-gOmeprCAvansfeOnNXrki)
 - P1 Exhibition 1 on 1 meetings
-- Time permitting: Type in Motion iterations
+- Time permitting: Type in Motion, Part 3
 
 ### Homework
 
