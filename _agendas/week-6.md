@@ -8,7 +8,7 @@ date_range:       10/13
 - Discuss [Screenshot or it Didn't Happen – Jacob Gaboury](https://www.fotomuseum.ch/en/explore/still-searching/articles/156303_screenshot_or_it_didnt_happen)
 - [Week 6 notes](https://paper.dropbox.com/doc/Week-6-Project-2-Counterculture-Publication--AmmxaZBA782dfC8X3o4eJjEdAQ-EDPyXce0Pck3OIXz0PfLe)
 - Present project 2 ideas
-- [Download Figma](https://www.figma.com/) as well as the [font installer](https://font-daemon.figma.com/FigmaInstaller.pkg) and review the workflow
+- [Sign up for Figma](https://www.figma.com/) as well as the [font installer](https://font-daemon.figma.com/FigmaInstaller.pkg) and review the workflow
 - Work on projects with 1 on 1 meetings
 
 ### Homework
