@@ -1,0 +1,79 @@
+/*
+  Coding from Life – Sketch 2: fluid layout
+
+  For sketch 2 you'll be positioning elements relative to a fluid container. This
+  means you'll need to use percentages when positioning and sizingelements within
+  your frame.
+*/
+
+
+body {
+  background-color: black;
+}
+
+.frame {
+  width: 95vw;
+  height: 57vw;
+  background: white;
+  margin: 2.5vw auto;
+  position: relative;
+}
+
+/* Your CSS goes here */
+
+.table {
+  width: 100%;
+  height: 20%;
+  background: green;
+  position: absolute;
+  bottom: 0;
+}
+
+
+
+.pumpkin-vase {
+  background: #462317;
+  border: 2px solid black;
+  width: 50vw;
+  height: 50%;
+  position: absolute;
+  /* height: 500px; */
+  left: 20%;
+  bottom: 10%;
+  border-radius: 150px;
+  z-index: 2;
+}
+
+.eye-1 {
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 60px;
+  left: 20%;
+  border-left: 3vw solid transparent;
+  border-right: 3vw solid transparent;
+  border-bottom: 6vw solid black;
+}
+
+.eye-2 {
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 60px;
+  right: 20%;
+  border-left: 3vw solid transparent;
+  border-right: 3vw solid transparent;
+  border-bottom: 6vw solid black;
+}
+
+.grin {
+  border-bottom: 50px solid black;
+  border-left: 75px solid transparent;
+  border-right: 62px solid transparent;
+  height: 0;
+  width: 15vw;
+  position: absolute;
+  bottom: 15%;
+  left: 20%;
+  transform: rotate(180deg);
+}
