@@ -1,7 +1,7 @@
 ---
 title:            Week 7
 start_date:       2019-01-23 00:00:00 -0500
-date_range:       10/13
+date_range:       10/21
 ---
 
 ### Monday, In Class
