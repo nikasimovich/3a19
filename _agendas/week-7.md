@@ -12,6 +12,6 @@ date_range:       10/21
 ### Homework
 
 - Spend a few hours on Project 2. Revise your design based on feedback today and begin programming it. Come to class with an updated design as well as an online draft.
-- Read [“The New Art of Making Books”, Ulises Carrión, 1975](https://drive.google.com/file/d/1UDC6lmsLxqGzyydT-ugaSlOKDyZhKsoj/viewhttps://drive.google.com/file/d/1UDC6lmsLxqGzyydT-ugaSlOKDyZhKsoj/view) and connect a discussion question to the are.na board
+- Read [“The New Art of Making Books”, Ulises Carrión, 1975](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf) and connect a discussion question to the are.na board
 
 ---
