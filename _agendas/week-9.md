@@ -6,7 +6,7 @@ date_range:       11/04
 
 ### Monday, In Class
 - Discuss [Kameelah Janan Rasheed on research and archiving](https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/)
-- [Week 9 Activities: Flexbox Review, Archives, Coding from Life Gallery](https://paper.dropbox.com/doc/Week-8--AnfVZRKb5wyjavTRQk8XxIhGAQ-W473wSL6DEZEgNJWEYzZS)
+- [Week 9 Activities: Flexbox Review, Archives, Coding from Life Gallery](https://paper.dropbox.com/doc/Week-9-Notes--An6xvbbJyQSzIXpuoLvy5oGkAQ-hIdQZbDDTlfFjmsVqcwvw)
 
 
 ### Homework
