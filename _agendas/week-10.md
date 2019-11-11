@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2019-01-23 00:00:00 -0500
+start_date:       2019-11-10 00:00:00 -0500
 date_range:       11/11
 ---
 
