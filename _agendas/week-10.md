@@ -8,7 +8,7 @@ date_range:       11/11
 - [P2 Critique](https://paper.dropbox.com/doc/Week-10-P2-Critique--AoXI4rXqGa412oYelF~HooH0AQ-X9LL1wSr740rUBVbDyLCu)
 - Read through [P3: Social Web](../projects/social-web), we&rsquo;ll look at examples next week
 - Review [Coding from Life Archives](https://paper.dropbox.com/doc/Week-9-Notes--AoWEg4vCJJaPkesxMhhc3zyeAQ-hIdQZbDDTlfFjmsVqcwvw)
-- 1 on 1 midterm evaluations (does not include grade for P2)
+- 1 on 1 midterm evaluations (does not include grade for P2 or the coding from life archive)
 
 
 ### Homework
