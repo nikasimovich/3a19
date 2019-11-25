@@ -5,7 +5,7 @@ date_range:       11/25
 ---
 
 ### Monday, In Class
-- Discuss Introduction, [Chapter 1 and Chapter 3 of How to Respond to Code of Conduct Reports – Valerie Aurora and Mary Gardiner](../assets/readings/code-of-conduct_guide.pdf) and connect a discussion question to the are.na channel
+- Discuss Introduction, [Chapter 1 and Chapter 3 of How to Respond to Code of Conduct Reports – Valerie Aurora and Mary Gardiner](../assets/readings/code-of-conduct_guide.pdf)
 - Shreya presents her P2
 - [Guided Work Day](https://paper.dropbox.com/doc/Week-12-Guided-Workday--ApP9u33tjPu5qHd~K8qTACO8AQ-xOaVq5gZOKZtFV2ITN8gP)
 
