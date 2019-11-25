@@ -1,7 +1,7 @@
 ---
 title:            Week 12
 start_date:       2019-11-17 00:00:00 -0500
-date_range:       11/24
+date_range:       11/25
 ---
 
 ### Monday, In Class
